@@ -13,6 +13,7 @@ Requirements
 Dokan has to be installed before using this driver.
 You can download it from: http://dokan-dev.net/en/download/
 Filesystem has been tested with version 0.6. It may not work with new versions.
+Use CMake for generation of build files. Driver should compile properly in MSVC and MinGW.
 
 Usage
 -----
